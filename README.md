@@ -1,2 +1,2 @@
 # Twitter-Social-Network-Analysis
-This project is based on Python's Social network analysis and text mining. 
+This project is based on Python's Social network analysis and text mining. tweet_collection_10k python file contains the implementation to collect dynamic tweet collection using Twython Streamer. Sentimentanalysis.py contains the code for sentiment analysis of the collected tweets. wordcloud_topicanalyses.py contains the code for generating a word cloud and generating topics.
